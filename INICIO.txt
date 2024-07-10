@@ -1,0 +1,7 @@
+Extencion de conexion SqlServer
+
+localhost //no poner el puerto :1433 
+                + "database = PRUEBAS;"
+                + "user=sa;"
+                + "password=12345678;"
+                + "loginTimeout=30;";
